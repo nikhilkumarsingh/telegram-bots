@@ -4,7 +4,7 @@ import time
 import requests
 from telepot.namedtuple import ReplyKeyboardMarkup, KeyboardButton
 
-key="AIzaSyApuFoKxVMRQ2einlsA0rkx2S4WJjJIh34"  
+key="XXXXXXXXXXXXXXXXXXXXXXXXXXXX"  
 
 def getLatLng(address):
   geo_s ='https://maps.googleapis.com/maps/api/geocode/json'
